@@ -1,16 +1,16 @@
 {
-  "name": "PythonTemplate",
-  "docs": "https://github.com/Einstein42/udi-poly-template-python",
+  "name": "EmporiaVue",
+  "docs": "https://github.com/blakevh/emporia-vue2-nodeserver",
   "type": "python3",
   "executable": "template-poly.py",
   "install": "install.sh",
-  "description": "Template Node Server",
+  "description": "Polyglot nodeserver for Emporia Vue Gen2",
   "notice": "Your disclaimer here",
   "shortPoll": "120",
   "longPoll": "240",
   "testMode": false,
   "logLevel": "INFO",
-  "profile_version": "3.0.0",
+  "profile_version": "0.0.1",
   "customParams": {
 	  "user": "to be defined",
 	  "password": "my secret password"
@@ -18,15 +18,15 @@
   "credits": [
     {
       "title": "mypoly: a NodeServer for Template Integration",
-      "author": "James Milne (Einstein.42)",
-      "version": "3.0.0",
+      "author": "Blake Von Haden (blakevh)",
+      "version": "0.0.1",
       "date": "January 14, 2021",
-      "source": "https://github.com/Einstein42/udi-poly-template-python",
-      "license": "https://raw.githubusercontent.com/Einstein42/udi-poly-template-python/master/LICENSE"
+      "source": "https://github.com/blakevh/emporia-vue2-nodeserver",
+      "license": "https://raw.githubusercontent.com/blakevh/emporia-vue2-nodeserver/main/LICENSE"
     }
   ],
   "store": {
-    "developer": "milne.james@gmail.com",
+    "developer": "blake.poly@gmail.com",
     "price": 0.00,
     "recurring": 0,
     "recurring_interval": "month",

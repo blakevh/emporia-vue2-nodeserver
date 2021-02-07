@@ -1,4 +1,4 @@
-# MyNodeServer
+# Emporia Vue Gen2 Nodeserver
 
 #### Installation
 
