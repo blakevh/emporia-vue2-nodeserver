@@ -74,3 +74,5 @@ target/
 
 #Project specific
 polyinterface
+/.project
+/.pydevproject
